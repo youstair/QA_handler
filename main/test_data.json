@@ -1,0 +1,17 @@
+[
+    [
+        "0.66128683",
+        "<h2>什么是RSS？</h2><ul>\n<li>RSS 指 Really Simple Syndication（真正简易联合）</li>\n<li>RSS 使您有能力聚合（syndicate）网站的内容</li>\n<li>RSS 定义了非常简单的方法来共享和查看标题和内容</li>\n<li>RSS 文件可被自动更新</li>\n<li>RSS 允许为不同的网站进行视图的个性化</li>\n<li>RSS 使用 XML 编写</li>\n</ul><hr/>",
+        "http://www.runoob.com/rss/rss-intro.html"
+    ],
+    [
+        "0.6812155",
+        "<h2>什么是UDDI？</h2><p>UDDI 是一个独立于平台的框架，用于通过使用 Internet 来描述服务，发现企业，并对企业服务进行集成。</p><ul>\n<li>UDDI 指的是通用描述、发现与集成服务</li>\n<li>UDDI 是一种用于存储有关 web services 的信息的目录。</li>\n<li>UDDI 是一种由 WSDL 描述的 web services 界面的目录。</li>\n<li>UDDI 经由 SOAP 进行通信</li>\n<li>UDDI 被构建入了微软的 .NET 平台</li>\n</ul><hr/>",
+        "http://www.runoob.com/wsdl/wsdl-uddi.html"
+    ],
+    [
+        "0.90820575",
+        "<h2>什么是WSDL?</h2><ul>\n<li>WSDL 指网络服务描述语言</li>\n<li>WSDL 使用 XML 编写</li>\n<li>WSDL 是一种 XML 文档</li>\n<li>WSDL 用于描述网络服务</li>\n<li>WSDL 也可用于定位网络服务</li>\n<li>WSDL 还不是 W3C 标准</li>\n</ul><hr/>",
+        "http://www.runoob.com/wsdl/wsdl-intro.html"
+    ]
+]
